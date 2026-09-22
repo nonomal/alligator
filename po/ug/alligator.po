@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: alligator\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-09-05 00:44+0000\n"
-"PO-Revision-Date: 2026-05-28 17:00-0400\n"
+"PO-Revision-Date: 2026-09-22 18:02+0900\n"
 "Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>\n"
 "Language-Team: Uyghur <kde-i18n-doc@kde.org>\n"
 "Language: ug\n"
@@ -71,7 +71,7 @@ msgstr "© 2020-2024 KDE جامائىتى"
 #: main.cpp:69
 #, kde-format
 msgid "Tobias Fella"
-msgstr "Tobias Fella"
+msgstr ""
 
 #: main.cpp:82
 #, kde-format
@@ -241,7 +241,7 @@ msgstr "يىغقۇچقا قوش"
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy Link"
-msgstr ""
+msgstr "ئۇلانما كۆچۈر"
 
 #: qml/FeedDetailsPage.qml:20
 #, kde-format
